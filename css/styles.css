@@ -193,6 +193,7 @@ img {
 .content {
   background: #fff;
   min-width: 169px;
+  padding: 120px 0;
 }
 
 .visually-hidden {
