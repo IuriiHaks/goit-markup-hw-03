@@ -83,7 +83,7 @@ img {
   color: #404BBF;
 }
 
-.menu-item {
+.link {
   color: var(--NAVY-BLUE, #2e2f42);
 
   /* Body Medium */
@@ -413,8 +413,15 @@ img {
   line-height: 24px;
   /* 150% */
   letter-spacing: 0.32px;
+  max-width: 264px;
+}
+
+a {
+  display: inline-block; 
+  margin-bottom: 16px;
 }
 
 .accent-logo {
   color: var(--CLOUD, #f4f4fd);
+ 
 }
