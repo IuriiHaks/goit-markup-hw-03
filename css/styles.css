@@ -424,11 +424,15 @@ img {
 }
 
 a {
-  display: inline-block; 
-  
+ 
+  margin-bottom: 16px;
+}
+
+.logo {
+ display: inline-block; 
 }
 
 .accent-logo {
   color: var(--CLOUD, #f4f4fd);
- margin-bottom: 16px;
+ 
 }
