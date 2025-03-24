@@ -42,7 +42,7 @@ img {
   margin: 0 auto;
 }
 
-.header-content {
+.header-container {
   display: flex;
   align-items: center;
 }
@@ -50,7 +50,7 @@ img {
 .header-navigation {
   display: flex;
   align-items: center;
-  margin-right: auto;
+  /* margin-right: auto; */
 }
 
 .logo {
@@ -75,6 +75,7 @@ img {
 
 .menu-list {
   display: flex;
+  align-items: center;
   gap: 40px;
 }
 
